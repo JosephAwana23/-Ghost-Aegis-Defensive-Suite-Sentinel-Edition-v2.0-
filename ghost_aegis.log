@@ -1,0 +1,434 @@
+[2026-08-13 08:42:11] Ghost-Aegis System Ready. Monitoring active.
+[2026-08-13 08:42:15] SYSTEM INFO: Microsoft Windows 11 Pro Insider Preview | NODE: BHG
+[2026-08-13 08:42:17] [!] RADAR ENABLED: Sweeping every 30s...
+[2026-08-13 08:42:17] [*] Initiating Deep Network Audit...
+[2026-08-13 08:42:17] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 08:42:21] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 08:42:27] [REVIEW]   SearchHost.exe  52.96.90.18 (San Antonio, US)                 10800 
+[2026-08-13 08:42:32] [REVIEW]   SearchHost.exe  52.96.90.18 (San Antonio, US)                 10800 
+[2026-08-13 08:42:32] [REVIEW]   chrome.exe      dl-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 08:42:32] [TRUSTED]  Code.exe        lb-140-82-112-21-iad.github.com (San Francisco, US) 8512  
+[2026-08-13 08:42:38] [REVIEW]   Code.exe        138.91.182.224 (San Francisco, US)            8512  
+[2026-08-13 08:42:38] [TRUSTED]  Code.exe        lb-140-82-113-21-iad.github.com (San Francisco, US) 8512  
+[2026-08-13 08:42:38] [TRUSTED]  Code.exe        lb-140-82-112-22-iad.github.com (San Francisco, US) 5420  
+[2026-08-13 08:42:43] [THREAT]   Code.exe        52.168.117.174 (Boydton, US) | SCORE: 26%     5420  
+[2026-08-13 08:42:43] [TRUSTED]  Code.exe        lb-140-82-112-21-iad.github.com (San Francisco, US) 20180 
+[2026-08-13 08:42:43] [TRUSTED]  Code.exe        lb-140-82-112-21-iad.github.com (San Francisco, US) 20180 
+[2026-08-13 08:42:49] [WARN]     Code.exe        150.171.109.150 (Cape Town, ZA) | SCORE: 1%   8512  
+[2026-08-13 08:42:49] [SYSTEM]   svchost.exe     dclaxa-az-in-f3.1e100.net (Mountain View, US) 2428  
+[2026-08-13 08:42:54] [REVIEW]   StartMenuExperienceHost.exe 52.110.19.166 (Phoenix, US)                   10700 
+[2026-08-13 08:42:59] [REVIEW]   StartMenuExperienceHost.exe 52.110.1.30 (Boydton, US)                     10700 
+[2026-08-13 08:43:04] [WARN]     Code.exe        4.150.223.103 (Des Moines, US) | SCORE: 23%   8512  
+[2026-08-13 08:43:34] [*] Initiating Deep Network Audit...
+[2026-08-13 08:43:34] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 08:43:39] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 08:43:47] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    13344 
+[2026-08-13 08:43:53] [WARN]     Code.exe        51.116.246.104 (Frankfurt am Main, DE) | SCORE: 4% 8512  
+[2026-08-13 08:43:53] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 08:43:58] [REVIEW]   chrome.exe      142.251.157.2 (Mountain View, US)             20544 
+[2026-08-13 08:44:00] [TRUSTED]  Code.exe        lb-140-82-112-21-iad.github.com (San Francisco, US) 20180 
+[2026-08-13 08:44:04] [SYSTEM]   svchost.exe     20.190.151.131 (Boydton, US)                  10684 
+[2026-08-13 08:44:10] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 08:44:15] [REVIEW]   StartMenuExperienceHost.exe 52.110.19.166 (Phoenix, US)                   10700 
+[2026-08-13 08:44:20] [REVIEW]   StartMenuExperienceHost.exe 52.110.1.30 (Boydton, US)                     10700 
+[2026-08-13 08:44:50] [*] Initiating Deep Network Audit...
+[2026-08-13 08:44:50] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 08:44:55] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 08:45:00] [WARN]     Code.exe        51.116.246.104 (Frankfurt am Main, DE) | SCORE: 4% 8512  
+[2026-08-13 08:45:01] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 08:45:06] [REVIEW]   chrome.exe      142.251.157.2 (Mountain View, US)             20544 
+[2026-08-13 08:45:11] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    13344 
+[2026-08-13 08:45:17] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 08:45:22] [REVIEW]   StartMenuExperienceHost.exe 52.110.19.166 (Phoenix, US)                   10700 
+[2026-08-13 08:45:27] [REVIEW]   StartMenuExperienceHost.exe 52.110.1.30 (Boydton, US)                     10700 
+[2026-08-13 08:45:57] [*] Initiating Deep Network Audit...
+[2026-08-13 08:45:57] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 08:46:02] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 08:46:10] [WARN]     Code.exe        51.116.246.104 (Frankfurt am Main, DE) | SCORE: 4% 8512  
+[2026-08-13 08:46:11] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 08:46:16] [REVIEW]   chrome.exe      142.251.157.2 (Mountain View, US)             20544 
+[2026-08-13 08:46:21] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    13344 
+[2026-08-13 08:46:26] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 08:46:35] [REVIEW]   StartMenuExperienceHost.exe 52.110.19.166 (Phoenix, US)                   10700 
+[2026-08-13 08:46:40] [REVIEW]   StartMenuExperienceHost.exe 52.110.1.30 (Boydton, US)                     10700 
+[2026-08-13 08:47:10] [*] Initiating Deep Network Audit...
+[2026-08-13 08:47:10] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 08:47:15] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 08:47:16] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 08:47:21] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    13344 
+[2026-08-13 08:47:36] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 08:47:43] [REVIEW]   StartMenuExperienceHost.exe 52.110.19.166 (Phoenix, US)                   10700 
+[2026-08-13 08:47:52] [REVIEW]   StartMenuExperienceHost.exe 52.110.1.30 (Boydton, US)                     10700 
+[2026-08-13 08:48:20] [!] RADAR DISABLED.
+[2026-08-13 08:48:22] [*] Initiating Deep Network Audit...
+[2026-08-13 08:48:22] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 08:48:27] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 08:48:36] [THREAT]   Code.exe        20.42.72.131 (Boydton, US) | SCORE: 29%       8512  
+[2026-08-13 08:48:36] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 08:48:41] [REVIEW]   python3.12.exe  172.67.70.74 (Toronto, CA)                    13344 
+[2026-08-13 08:48:47] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 08:48:55] [REVIEW]   StartMenuExperienceHost.exe 52.110.19.166 (Phoenix, US)                   10700 
+[2026-08-13 08:49:10] [REVIEW]   StartMenuExperienceHost.exe 52.110.1.30 (Boydton, US)                     10700 
+[2026-08-13 08:59:40] Ghost-Aegis System Ready. Monitoring active.
+[2026-08-13 08:59:47] SYSTEM INFO: Microsoft Windows 11 Pro Insider Preview | NODE: BHG
+[2026-08-13 08:59:50] [!] RADAR ENABLED: Sweeping every 30s...
+[2026-08-13 08:59:50] [*] Initiating Deep Network Audit...
+[2026-08-13 08:59:50] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 08:59:59] [WARN]     Code.exe        51.105.71.137 (City of London, GB) | SCORE: 5% 8512  
+[2026-08-13 09:00:03] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:00:04] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:00:04] [TRUSTED]  chrome.exe      a173-223-234-143.deploy.static.akamaitechnologies.com (El Segundo, US) 20544 
+[2026-08-13 09:00:05] [REVIEW]   chrome.exe      ncorda-ao-in-f3.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:00:05] [TRUSTED]  Code.exe        lb-140-82-114-22-iad.github.com (San Francisco, US) 8512  
+[2026-08-13 09:00:10] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:00:38] ! INITIATING CLEANUP PROTOCOL !
+[2026-08-13 09:00:40] [*] Initiating Deep Network Audit...
+[2026-08-13 09:00:40] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:00:45] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:00:50] [WARN]     Code.exe        20.50.201.195 (Amsterdam, NL) | SCORE: 3%     8512  
+[2026-08-13 09:00:55] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:01:00] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:01:01] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:01:01] [TRUSTED]  Code.exe        lb-140-82-113-22-iad.github.com (San Francisco, US) 8512  
+[2026-08-13 09:01:18] [!] RADAR DISABLED.
+[2026-08-13 09:01:21] STEALTH MODE ACTIVE
+[2026-08-13 09:01:24] [!] RADAR ENABLED: Sweeping every 30s...
+[2026-08-13 09:01:24] [*] Initiating Deep Network Audit...
+[2026-08-13 09:01:24] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:01:29] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:01:34] [WARN]     Code.exe        20.50.201.195 (Amsterdam, NL) | SCORE: 3%     8512  
+[2026-08-13 09:01:39] [WARN]     Code.exe        150.171.109.150 (Cape Town, ZA) | SCORE: 1%   8512  
+[2026-08-13 09:01:44] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:01:45] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:01:45] [TRUSTED]  Code.exe        lb-140-82-113-22-iad.github.com (San Francisco, US) 8512  
+[2026-08-13 09:01:45] [*] Initiating Deep Network Audit...
+[2026-08-13 09:01:45] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:01:49] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:01:50] [REVIEW]   chrome.exe      dclaxb-az-in-f5.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:01:51] [REVIEW]   chrome.exe      iad66s01-in-f5.1e100.net (Washington, US)     20544 
+[2026-08-13 09:01:51] [REVIEW]   chrome.exe      dclaxa-ax-in-f5.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:01:56] [WARN]     Code.exe        20.50.201.195 (Amsterdam, NL) | SCORE: 3%     8512  
+[2026-08-13 09:02:02] [WARN]     Code.exe        150.171.109.150 (Cape Town, ZA) | SCORE: 1%   8512  
+[2026-08-13 09:02:02] [REVIEW]   chrome.exe      qro02s23-in-f14.1e100.net (Los Angeles, US)   20544 
+[2026-08-13 09:02:03] [REVIEW]   chrome.exe      dclaxb-az-in-f5.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:02:03] [REVIEW]   chrome.exe      dclaxa-ax-in-f5.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:02:08] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:02:09] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:02:10] [REVIEW]   chrome.exe      dclaxa-as-in-f10.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:02:10] [TRUSTED]  Code.exe        lb-140-82-113-22-iad.github.com (San Francisco, US) 8512  
+[2026-08-13 09:02:10] [REVIEW]   chrome.exe      dclaxa-as-in-f14.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:02:15] [*] Initiating Deep Network Audit...
+[2026-08-13 09:02:15] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:02:27] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:02:27] [REVIEW]   chrome.exe      dclaxb-az-in-f5.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:02:28] [REVIEW]   chrome.exe      iad66s01-in-f5.1e100.net (Washington, US)     20544 
+[2026-08-13 09:02:28] [REVIEW]   chrome.exe      dclaxa-ax-in-f5.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:02:33] [WARN]     Code.exe        20.50.201.195 (Amsterdam, NL) | SCORE: 3%     8512  
+[2026-08-13 09:02:39] [WARN]     Code.exe        150.171.109.150 (Cape Town, ZA) | SCORE: 1%   8512  
+[2026-08-13 09:02:39] [REVIEW]   chrome.exe      qro02s23-in-f14.1e100.net (Los Angeles, US)   20544 
+[2026-08-13 09:02:40] [REVIEW]   chrome.exe      dclaxb-av-in-f1.1e100.net (Los Angeles, US)   20544 
+[2026-08-13 09:02:40] [REVIEW]   chrome.exe      dclaxb-az-in-f5.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:02:41] [REVIEW]   chrome.exe      dclaxb-av-in-f1.1e100.net (Los Angeles, US)   20544 
+[2026-08-13 09:02:42] [REVIEW]   chrome.exe      dclaxa-ax-in-f5.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:02:42] [REVIEW]   chrome.exe      dclaxb-av-in-f1.1e100.net (Los Angeles, US)   20544 
+[2026-08-13 09:02:43] [REVIEW]   chrome.exe      dclaxb-av-in-f1.1e100.net (Los Angeles, US)   20544 
+[2026-08-13 09:02:43] [REVIEW]   chrome.exe      dclaxb-av-in-f1.1e100.net (Los Angeles, US)   20544 
+[2026-08-13 09:02:48] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:02:49] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:02:57] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:02:58] [REVIEW]   chrome.exe      dclaxa-as-in-f10.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:02:58] [TRUSTED]  Code.exe        lb-140-82-113-22-iad.github.com (San Francisco, US) 8512  
+[2026-08-13 09:02:58] [REVIEW]   chrome.exe      dclaxb-av-in-f1.1e100.net (Los Angeles, US)   20544 
+[2026-08-13 09:02:59] [REVIEW]   chrome.exe      dclaxa-as-in-f14.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:02:59] [*] Initiating Deep Network Audit...
+[2026-08-13 09:02:59] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:03:04] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:03:04] [REVIEW]   chrome.exe      iad66s01-in-f5.1e100.net (Washington, US)     20544 
+[2026-08-13 09:03:05] [REVIEW]   chrome.exe      dy-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:03:13] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:03:18] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:03:29] [*] Initiating Deep Network Audit...
+[2026-08-13 09:03:29] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:03:34] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:03:37] [REVIEW]   chrome.exe      dl-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:03:43] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:03:50] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:03:50] [*] Initiating Deep Network Audit...
+[2026-08-13 09:03:50] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:03:55] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:04:11] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:04:11] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:04:16] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:04:22] [WARN]     Code.exe        20.184.175.2 (San Francisco, US) | SCORE: 21% 8512  
+[2026-08-13 09:04:22] [*] Initiating Deep Network Audit...
+[2026-08-13 09:04:22] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:04:26] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:04:34] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:04:42] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:04:47] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:04:52] [*] Initiating Deep Network Audit...
+[2026-08-13 09:04:52] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:04:56] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:04:57] [REVIEW]   chrome.exe      dy-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:05:02] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:05:07] [THREAT]   Code.exe        20.184.175.12 (San Francisco, US) | SCORE: 26% 8512  
+[2026-08-13 09:05:12] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:05:17] [*] Initiating Deep Network Audit...
+[2026-08-13 09:05:17] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:05:22] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:05:23] [REVIEW]   chrome.exe      dy-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:05:28] [THREAT]   Code.exe        20.184.175.12 (San Francisco, US) | SCORE: 26% 8512  
+[2026-08-13 09:05:33] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:05:38] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:05:42] [*] Initiating Deep Network Audit...
+[2026-08-13 09:05:42] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:05:47] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:05:48] [REVIEW]   chrome.exe      dy-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:05:53] [THREAT]   Code.exe        20.184.175.12 (San Francisco, US) | SCORE: 26% 8512  
+[2026-08-13 09:05:58] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:06:03] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:06:08] [*] Initiating Deep Network Audit...
+[2026-08-13 09:06:08] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:06:13] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:06:18] [REVIEW]   chrome.exe      142.251.156.2 (Mountain View, US)             20544 
+[2026-08-13 09:06:19] [REVIEW]   chrome.exe      dy-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:06:25] [THREAT]   Code.exe        20.184.175.12 (San Francisco, US) | SCORE: 26% 8512  
+[2026-08-13 09:06:30] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:06:35] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:06:35] [*] Initiating Deep Network Audit...
+[2026-08-13 09:06:35] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:06:40] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:06:48] [REVIEW]   chrome.exe      142.251.156.2 (Mountain View, US)             20544 
+[2026-08-13 09:06:49] [REVIEW]   chrome.exe      dy-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:06:55] [THREAT]   Code.exe        20.184.175.12 (San Francisco, US) | SCORE: 26% 8512  
+[2026-08-13 09:07:01] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:07:06] [WARN]     Code.exe        13.107.253.71 (Washington, US) | SCORE: 1%    8512  
+[2026-08-13 09:07:11] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:07:11] [*] Initiating Deep Network Audit...
+[2026-08-13 09:07:11] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:07:16] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:07:21] [THREAT]   Code.exe        52.168.112.67 (Boydton, US) | SCORE: 26%      8512  
+[2026-08-13 09:07:22] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:07:22] [REVIEW]   chrome.exe      lga25s79-in-f14.1e100.net (New York, US)      20544 
+[2026-08-13 09:07:28] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:07:28] [REVIEW]   chrome.exe      dclaxa-ay-in-f10.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:07:29] [REVIEW]   Unknown         dfw28s30-in-f14.1e100.net (Dallas, US)        6252  
+[2026-08-13 09:07:34] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:07:41] [*] Initiating Deep Network Audit...
+[2026-08-13 09:07:41] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:07:45] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:07:51] [THREAT]   Code.exe        52.168.112.67 (Boydton, US) | SCORE: 26%      8512  
+[2026-08-13 09:07:51] [REVIEW]   chrome.exe      iad66s01-in-f10.1e100.net (Washington, US)    20544 
+[2026-08-13 09:07:57] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:07:57] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:08:08] [REVIEW]   chrome.exe      lga25s79-in-f14.1e100.net (Loc Error)         20544 
+[2026-08-13 09:08:13] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:08:14] [REVIEW]   chrome.exe      dclaxa-ay-in-f10.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:08:14] [*] Initiating Deep Network Audit...
+[2026-08-13 09:08:14] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:08:18] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:08:19] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:08:24] [REVIEW]   NVIDIA Overlay.exe 192.168.4.28 (Unknown Loc)                    6708  
+[2026-08-13 09:08:29] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:08:35] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:08:44] [*] Initiating Deep Network Audit...
+[2026-08-13 09:08:44] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:08:48] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:08:48] [TRUSTED]  chrome.exe      a23-199-232-196.deploy.static.akamaitechnologies.com (El Segundo, US) 20544 
+[2026-08-13 09:08:49] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:08:55] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:08:56] [REVIEW]   chrome.exe      dd-in-f101.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:08:57] [REVIEW]   chrome.exe      dclaxa-ax-in-f22.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:08:57] [TRUSTED]  chrome.exe      a23-63-208-228.deploy.static.akamaitechnologies.com (El Segundo, US) 20544 
+[2026-08-13 09:09:02] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:09:02] [REVIEW]   chrome.exe      server-52-222-244-99.lax53.r.cloudfront.net (Los Angeles, US) 20544 
+[2026-08-13 09:09:05] [*] Initiating Deep Network Audit...
+[2026-08-13 09:09:05] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:09:09] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:09:09] [TRUSTED]  chrome.exe      a23-199-232-196.deploy.static.akamaitechnologies.com (El Segundo, US) 20544 
+[2026-08-13 09:09:10] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:09:15] [WARN]     Code.exe        20.184.175.23 (San Francisco, US) | SCORE: 22% 8512  
+[2026-08-13 09:09:20] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:09:26] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:09:26] [REVIEW]   chrome.exe      dd-in-f101.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:09:27] [REVIEW]   chrome.exe      dclaxa-ax-in-f22.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:09:27] [TRUSTED]  chrome.exe      a23-63-208-228.deploy.static.akamaitechnologies.com (El Segundo, US) 20544 
+[2026-08-13 09:09:28] [REVIEW]   chrome.exe      server-52-222-244-99.lax53.r.cloudfront.net (Los Angeles, US) 20544 
+[2026-08-13 09:09:32] [*] Initiating Deep Network Audit...
+[2026-08-13 09:09:33] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:09:37] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:09:37] [TRUSTED]  chrome.exe      a23-199-232-196.deploy.static.akamaitechnologies.com (El Segundo, US) 20544 
+[2026-08-13 09:09:38] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:09:43] [WARN]     Code.exe        20.184.175.23 (San Francisco, US) | SCORE: 22% 8512  
+[2026-08-13 09:09:48] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:09:54] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:09:55] [REVIEW]   chrome.exe      dd-in-f101.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:09:55] [REVIEW]   chrome.exe      dclaxa-ax-in-f22.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:09:55] [TRUSTED]  chrome.exe      a23-63-208-228.deploy.static.akamaitechnologies.com (El Segundo, US) 20544 
+[2026-08-13 09:09:56] [REVIEW]   chrome.exe      server-52-222-244-99.lax53.r.cloudfront.net (Los Angeles, US) 20544 
+[2026-08-13 09:09:58] [*] Initiating Deep Network Audit...
+[2026-08-13 09:09:58] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:10:02] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:10:02] [TRUSTED]  chrome.exe      a23-199-232-196.deploy.static.akamaitechnologies.com (El Segundo, US) 20544 
+[2026-08-13 09:10:03] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:10:08] [WARN]     Code.exe        20.184.175.23 (San Francisco, US) | SCORE: 22% 8512  
+[2026-08-13 09:10:13] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:10:19] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:10:19] [REVIEW]   chrome.exe      dd-in-f101.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:10:20] [REVIEW]   chrome.exe      dclaxa-ax-in-f22.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:10:20] [TRUSTED]  chrome.exe      a23-63-208-228.deploy.static.akamaitechnologies.com (El Segundo, US) 20544 
+[2026-08-13 09:10:21] [REVIEW]   chrome.exe      server-52-222-244-99.lax53.r.cloudfront.net (Los Angeles, US) 20544 
+[2026-08-13 09:10:26] [*] Initiating Deep Network Audit...
+[2026-08-13 09:10:26] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:10:31] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:10:31] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:10:37] [WARN]     Code.exe        20.184.175.23 (San Francisco, US) | SCORE: 22% 8512  
+[2026-08-13 09:10:42] [REVIEW]   python3.12.exe  104.26.13.38 (Toronto, CA)                    17356 
+[2026-08-13 09:10:47] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:10:48] [REVIEW]   chrome.exe      dd-in-f101.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:10:48] [REVIEW]   chrome.exe      dclaxa-ax-in-f22.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:10:49] [REVIEW]   chrome.exe      server-52-222-244-99.lax53.r.cloudfront.net (Los Angeles, US) 20544 
+[2026-08-13 09:10:51] [*] Initiating Deep Network Audit...
+[2026-08-13 09:10:51] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:10:55] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:10:58] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Loc Error)              20544 
+[2026-08-13 09:11:03] [WARN]     Code.exe        20.184.175.23 (San Francisco, US) | SCORE: 22% 8512  
+[2026-08-13 09:11:09] [REVIEW]   python3.12.exe  104.26.13.38 (Toronto, CA)                    17356 
+[2026-08-13 09:11:14] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:11:16] [REVIEW]   chrome.exe      dd-in-f101.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:11:17] [REVIEW]   chrome.exe      dclaxa-ax-in-f22.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:11:17] [REVIEW]   chrome.exe      server-52-222-244-99.lax53.r.cloudfront.net (Los Angeles, US) 20544 
+[2026-08-13 09:11:19] [*] Initiating Deep Network Audit...
+[2026-08-13 09:11:19] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:11:24] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:11:24] [REVIEW]   chrome.exe      123.35.104.34.bc.googleusercontent.com (Mountain View, US) 20544 
+[2026-08-13 09:11:29] [REVIEW]   python3.12.exe  104.26.13.38 (Toronto, CA)                    17356 
+[2026-08-13 09:11:30] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:11:35] [WARN]     Code.exe        20.184.175.23 (San Francisco, US) | SCORE: 22% 8512  
+[2026-08-13 09:11:40] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:11:41] [REVIEW]   chrome.exe      dd-in-f101.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:11:42] [REVIEW]   chrome.exe      dclaxa-ax-in-f22.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:11:42] [REVIEW]   chrome.exe      server-52-222-244-99.lax53.r.cloudfront.net (Los Angeles, US) 20544 
+[2026-08-13 09:11:47] [*] Initiating Deep Network Audit...
+[2026-08-13 09:11:47] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:11:59] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:12:03] [REVIEW]   chrome.exe      123.35.104.34.bc.googleusercontent.com (Loc Error) 20544 
+[2026-08-13 09:12:03] [REVIEW]   chrome.exe      dfw28s30-in-f14.1e100.net (Dallas, US)        20544 
+[2026-08-13 09:12:04] [REVIEW]   chrome.exe      dclaxb-az-in-f10.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:12:05] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:12:05] [REVIEW]   chrome.exe      dfw28s30-in-f14.1e100.net (Dallas, US)        20544 
+[2026-08-13 09:12:06] [REVIEW]   chrome.exe      dz-in-f84.1e100.net (Mountain View, US)       20544 
+[2026-08-13 09:12:11] [REVIEW]   Code.exe        150.171.109.147 (Cape Town, ZA)               8512  
+[2026-08-13 09:12:12] [REVIEW]   chrome.exe      dfw28s30-in-f14.1e100.net (Dallas, US)        20544 
+[2026-08-13 09:12:21] [REVIEW]   python3.12.exe  104.26.13.38 (Toronto, CA)                    17356 
+[2026-08-13 09:12:21] [REVIEW]   chrome.exe      dfw28s30-in-f14.1e100.net (Dallas, US)        20544 
+[2026-08-13 09:12:22] [REVIEW]   chrome.exe      iad66s01-in-f5.1e100.net (Washington, US)     20544 
+[2026-08-13 09:12:27] [WARN]     Code.exe        20.184.175.23 (San Francisco, US) | SCORE: 22% 8512  
+[2026-08-13 09:12:32] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:12:33] [REVIEW]   chrome.exe      dd-in-f101.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:12:34] [REVIEW]   chrome.exe      dclaxa-ax-in-f22.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:12:37] [REVIEW]   chrome.exe      server-52-222-244-99.lax53.r.cloudfront.net (Los Angeles, US) 20544 
+[2026-08-13 09:12:37] [*] Initiating Deep Network Audit...
+[2026-08-13 09:12:37] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:12:43] [SYSTEM]   svchost.exe     20.59.87.225 (Loc Error)                      5708  
+[2026-08-13 09:12:51] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:12:56] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:13:07] [*] Initiating Deep Network Audit...
+[2026-08-13 09:13:07] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:13:12] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:13:17] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:13:17] [REVIEW]   chrome.exe      dl-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:13:23] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:13:26] [*] Initiating Deep Network Audit...
+[2026-08-13 09:13:26] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:13:31] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:13:31] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:13:40] [REVIEW]   NVIDIA Overlay.exe 192.168.4.28 (Unknown Loc)                    6708  
+[2026-08-13 09:13:41] [REVIEW]   chrome.exe      lga34s40-in-f14.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:13:43] [REVIEW]   chrome.exe      dclaxa-as-in-f14.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:13:44] [REVIEW]   chrome.exe      dz-in-f84.1e100.net (Mountain View, US)       20544 
+[2026-08-13 09:13:49] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:13:55] [REVIEW]   explorer.exe    52.96.156.34 (Phoenix, US)                    9936  
+[2026-08-13 09:13:55] [*] Initiating Deep Network Audit...
+[2026-08-13 09:13:55] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:14:07] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:14:07] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:14:13] [THREAT]   Code.exe        20.184.175.4 (San Francisco, US) | SCORE: 26% 8512  
+[2026-08-13 09:14:14] [REVIEW]   chrome.exe      dz-in-f84.1e100.net (Mountain View, US)       20544 
+[2026-08-13 09:14:15] [REVIEW]   chrome.exe      lga34s40-in-f14.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:14:15] [REVIEW]   chrome.exe      dclaxa-as-in-f14.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:14:19] [REVIEW]   chrome.exe      dz-in-f84.1e100.net (Mountain View, US)       20544 
+[2026-08-13 09:14:27] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:14:28] [REVIEW]   chrome.exe      lga34s40-in-f14.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:14:28] [*] Initiating Deep Network Audit...
+[2026-08-13 09:14:28] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:14:32] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:14:41] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:14:41] [SYSTEM]   svchost.exe     lga34s40-in-f3.1e100.net (Mountain View, US)  2428  
+[2026-08-13 09:14:42] [REVIEW]   chrome.exe      38.10.51.34.bc.googleusercontent.com (Queretaro, MX) 20544 
+[2026-08-13 09:14:47] [REVIEW]   NVIDIA Overlay.exe 192.168.4.28 (Unknown Loc)                    6708  
+[2026-08-13 09:14:48] [REVIEW]   chrome.exe      lga25s79-in-f14.1e100.net (New York, US)      20544 
+[2026-08-13 09:14:49] [REVIEW]   chrome.exe      dd-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:14:58] [*] Initiating Deep Network Audit...
+[2026-08-13 09:14:58] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:15:02] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:15:08] [WARN]     Code.exe        20.52.64.200 (Frankfurt am Main, DE) | SCORE: 5% 8512  
+[2026-08-13 09:15:08] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:15:08] [SYSTEM]   svchost.exe     lga34s40-in-f3.1e100.net (Mountain View, US)  2428  
+[2026-08-13 09:15:10] [REVIEW]   chrome.exe      dclaxa-av-in-f14.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:15:11] [REVIEW]   chrome.exe      dfw28s30-in-f5.1e100.net (Dallas, US)         20544 
+[2026-08-13 09:15:16] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:15:17] [REVIEW]   chrome.exe      dz-in-f84.1e100.net (Mountain View, US)       20544 
+[2026-08-13 09:15:19] [*] Initiating Deep Network Audit...
+[2026-08-13 09:15:19] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:15:23] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:15:29] [WARN]     Code.exe        20.52.64.200 (Frankfurt am Main, DE) | SCORE: 5% 8512  
+[2026-08-13 09:15:34] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:15:35] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:15:35] [SYSTEM]   svchost.exe     lga34s40-in-f3.1e100.net (Mountain View, US)  2428  
+[2026-08-13 09:15:35] [REVIEW]   chrome.exe      dclaxa-av-in-f14.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:15:39] [REVIEW]   chrome.exe      dfw28s30-in-f5.1e100.net (Dallas, US)         20544 
+[2026-08-13 09:15:43] [REVIEW]   chrome.exe      dd-in-f84.1e100.net (Mountain View, US)       20544 
+[2026-08-13 09:15:43] [REVIEW]   chrome.exe      dz-in-f84.1e100.net (Mountain View, US)       20544 
+[2026-08-13 09:15:47] [*] Initiating Deep Network Audit...
+[2026-08-13 09:15:47] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:15:51] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:15:52] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:15:58] [REVIEW]   NVIDIA Overlay.exe 192.168.4.28 (Unknown Loc)                    6708  
+[2026-08-13 09:16:04] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:16:04] [SYSTEM]   svchost.exe     dclaxa-az-in-f14.1e100.net (Mountain View, US) 2428  
+[2026-08-13 09:16:04] [SYSTEM]   svchost.exe     lga34s40-in-f3.1e100.net (Mountain View, US)  2428  
+[2026-08-13 09:16:06] [!] RADAR DISABLED.
+[2026-08-13 09:16:13] [*] Initiating Deep Network Audit...
+[2026-08-13 09:16:13] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:16:19] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:16:19] [REVIEW]   chrome.exe      dd-in-f84.1e100.net (Mountain View, US)       20544 
+[2026-08-13 09:16:23] [REVIEW]   python3.12.exe  ip-api.com (Ashburn, US)                      17356 
+[2026-08-13 09:16:26] [REVIEW]   chrome.exe      dz-in-f84.1e100.net (Loc Error)               20544 
+[2026-08-13 09:16:29] [REVIEW]   chrome.exe      lga34s40-in-f14.1e100.net (Mountain View, US) 20544 
+[2026-08-13 09:16:31] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:16:34] [*] Initiating Deep Network Audit...
+[2026-08-13 09:16:34] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 09:16:38] [SYSTEM]   svchost.exe     20.59.87.225 (San Francisco, US)              5708  
+[2026-08-13 09:16:42] [REVIEW]   chrome.exe      qro02s23-in-f14.1e100.net (Los Angeles, US)   20544 
+[2026-08-13 09:16:46] [REVIEW]   chrome.exe      dz-in-f188.1e100.net (Mountain View, US)      20544 
+[2026-08-13 09:16:51] [REVIEW]   python3.12.exe  104.26.12.38 (Toronto, CA)                    17356 
+[2026-08-13 09:16:58] [REVIEW]   NVIDIA Overlay.exe 192.168.4.28 (Unknown Loc)                    6708  
+[2026-08-13 09:17:02] [X] Terminated NVIDIA Overlay.exe (PID: 6708) successfully.
+[2026-08-13 09:33:37] Ghost-Aegis System Ready. Monitoring active.
+[2026-08-13 09:37:54] Ghost-Aegis System Ready. Monitoring active.
+[2026-08-13 09:40:29] Ghost-Aegis System Ready. Monitoring active.
+[2026-08-13 09:40:42] Ghost-Aegis System Ready. Monitoring active.
+[2026-08-13 09:40:45] SYSTEM INFO: Microsoft Windows 11 Pro Insider Preview | NODE: BHG
+[2026-08-13 09:46:41] Ghost-Aegis System Ready. Monitoring active.
+[2026-08-13 09:49:31] Ghost-Aegis System Ready. Monitoring active.
+[2026-08-13 10:07:25] Ghost-Aegis System Ready. Monitoring active.
+[2026-08-13 10:07:28] SYSTEM INFO: Microsoft Windows 11 Pro Insider Preview | NODE: BHG
+[2026-08-13 10:07:30] [!] RADAR ENABLED: Sweeping every 30s...
+[2026-08-13 10:07:30] [*] Initiating Deep Network Audit...
+[2026-08-13 10:07:30] STATUS     PROCESS         REMOTE HOST / LOCATION                        PID   
+[2026-08-13 10:07:35] [WARN]     Code.exe        13.107.5.93 (New York, US) | SCORE: 13%       19744 
+[2026-08-13 10:07:35] [TRUSTED]  Code.exe        lb-140-82-112-22-iad.github.com (San Francisco, US) 19744 
+[2026-08-13 10:08:12] Ghost-Aegis System Ready. Monitoring active.
+[2026-08-13 10:09:24] Ghost-Aegis System Ready. Monitoring active.
+[2026-08-13 10:28:25] Ghost-Aegis System Ready. Monitoring active.
